@@ -14,7 +14,7 @@ The requirements for the program to run or for the code to be in effect are basi
 
 # Cost and Features and Timeline:-
 
-![App Screenshot] (C:\Users\patil\OneDrive\Documents\ANKITA PATIL\LLTS)
+![Untitled](https://user-images.githubusercontent.com/94224849/142769284-a22023cf-267c-4e1c-97d4-421bfdace64c.png)
 
 ## a) 3 years ago:
 - This is old version of department store managementApplication.

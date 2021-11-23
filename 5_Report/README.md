@@ -20,7 +20,7 @@ The main objectives of this project are listed as follows:
 
 # Research:-
 
-The requirements for the program to run or for the code to be in effect are basic and can befound on any simple computer.In this project, you can manage a typical ‘fashion wear’ department store. You can add goods, edit goods, search, delete and display the goods. 
+The requirements for the program to run or for the code to be in effect are basic and can befound on any simple computer.In this project, you can manage a typical department store. You can add goods, edit goods, search, delete and display the goods. 
 
 # Cost and Features and Timeline:-
 

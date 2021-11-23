@@ -55,6 +55,6 @@ Test Case:8
 ```bash
 Test Case:9
 
-![output10](https://user-images.githubusercontent.com/94118726/143030721-39f9e100-0553-499d-ae94-40cf4fb9e1ee.JPG)
-
 ```
+![output10](https://user-images.githubusercontent.com/94118726/143031528-1f7f3e72-2a52-488c-adb4-66b2ab82dc6a.JPG)
+
